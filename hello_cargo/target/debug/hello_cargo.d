@@ -1,0 +1,1 @@
+C:\Users\gabri\OneDrive\ -\ Associacao\ Antonio\ Vieira\Documentos\Projetos\r_study\hello_cargo\target\debug\hello_cargo.exe: C:\Users\gabri\OneDrive\ -\ Associacao\ Antonio\ Vieira\Documentos\Projetos\r_study\hello_cargo\src\main.rs
