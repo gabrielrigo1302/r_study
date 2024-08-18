@@ -1,1 +1,0 @@
-C:\Users\gabri\OneDrive\ -\ Associacao\ Antonio\ Vieira\Documentos\Projetos\r_study\jogo_adivinhacao\target\debug\jogo_adivinhacao.exe: C:\Users\gabri\OneDrive\ -\ Associacao\ Antonio\ Vieira\Documentos\Projetos\r_study\jogo_adivinhacao\src\main.rs
