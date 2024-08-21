@@ -1,0 +1,1 @@
+C:\Users\gabri\OneDrive\ -\ Associacao\ Antonio\ Vieira\Documentos\Projetos\r_study\4.1_ownership\target\debug\ownership.exe: C:\Users\gabri\OneDrive\ -\ Associacao\ Antonio\ Vieira\Documentos\Projetos\r_study\4.1_ownership\src\main.rs
